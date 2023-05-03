@@ -1,0 +1,4 @@
+baseURL = 'https://happysatie.github.io/brooklyn-taize/'
+languageCode = 'en-us'
+title = 'Brooklyn Taize'
+theme = 'lugo'
