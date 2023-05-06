@@ -16,6 +16,11 @@ img {
 
 header h1 {
 	text-align: center ;
+	color: cornflowerblue;
+}
+
+h1 {
+	color: cornflowerblue;
 }
 
 footer {
