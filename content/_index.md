@@ -4,7 +4,7 @@ date: 2023-05-01T16:39:36-04:00
 ---
 
 # Our next meeting
-Wednesday May 3, 2023 @ 7:30 pm  
+Wednesday May 10, 2023 @ 7:30 pm  
 Old First Reformed Church  
 729 Carroll St
 

@@ -1,4 +1,7 @@
-baseURL = '/'
+baseURL = 'https://brooklyntaize.info'
 languageCode = 'en-us'
-title = 'Brooklyn Taize'
+title = 'Brooklyn Taizé'
 theme = 'lugo'
+
+[params]
+    showrss = false
