@@ -1,7 +1,9 @@
-baseURL = 'https://brooklyntaize.info'
+baseURL = 'brooklyntaize.info'
 languageCode = 'en-us'
 title = 'Brooklyn Taizé'
 theme = 'lugo'
 
 [params]
     showrss = false
+    favicon = "/favicon.png"
+
